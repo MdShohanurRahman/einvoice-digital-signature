@@ -42,7 +42,7 @@ The signing process involves creating a digital signature using a private key an
     ```
 
 ## Generating Keystore and Certificates
-For trail certificate you may refer this [link](https://www.msctrustgate.com/assets/pdf_msctrustgate/guide/einvoice/eInvoice_UserGuide_OrganizationCertificate.pdf) for actual certificate.
+For trail certificate you may refer this [link](https://www.msctrustgate.com/assets/pdf_msctrustgate/guide/einvoice/eInvoice_UserGuide_OrganizationCertificate.pdf) (5.1.1 to 5.2.2) for actual certificate.
 
 For self-signed certificate you can follow the following steps. 
 
